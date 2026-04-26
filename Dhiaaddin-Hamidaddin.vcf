@@ -1,16 +1,16 @@
-﻿BEGIN:VCARD
+BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=UTF-8:Hamidaddin;Dhiaaddin;;;
-FN;CHARSET=UTF-8:Dhiaaddin Hamidaddin
+N:Hamidaddin;Dhiaaddin;;;
+FN:Dhiaaddin Hamidaddin
 X-PHONETIC-FIRST-NAME:Dhiaaddin
 X-PHONETIC-LAST-NAME:Hamidaddin
-ORG;CHARSET=UTF-8:AlDiyar AlAmirah Commercial Co.
-TITLE;CHARSET=UTF-8:Designer
+ORG:AlDiyar AlAmirah Commercial Co.
+TITLE:Designer
 TEL;TYPE=CELL,VOICE:+966540545591
 TEL;TYPE=WORK,VOICE:+966561599947
 EMAIL;TYPE=INTERNET,PREF:d.hamidaddin7@gmail.com
 EMAIL;TYPE=INTERNET,WORK:Info@diyaralamirah.com
-ADR;TYPE=WORK;CHARSET=UTF-8:;;Al Dhahab St., Ba'ashan Bldg., Office 105;Jeddah;Makkah;;Saudi Arabia
-NOTE;CHARSET=UTF-8:Historic Jeddah - Al Balad
+ADR;TYPE=WORK:;;Al Dhahab St., Ba'ashan Bldg., Office 105;Jeddah;Makkah;;Saudi Arabia
+NOTE:Historic Jeddah - Al Balad
 REV:20260426T012850Z
 END:VCARD
